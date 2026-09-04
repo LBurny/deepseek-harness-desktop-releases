@@ -47,7 +47,7 @@ Download `DSHDesktop_<version>_x64-setup.exe` from [Releases](../../releases) ([
 
 ### Updating
 
-The app can update itself: open **Settings → Check for updates** ("GitHub 下载" opens this repository's releases page; "手动更新" downloads and installs the latest version in place). Optional launch-time update checks can be enabled on the same page. Both read this repository's releases anonymously — no account or token needed.
+The app can update itself: open **Settings → Check for updates** ("GitHub download" opens this repository's releases page; "Update now" downloads and installs the latest version in place). Optional launch-time update checks can be enabled on the same page. Both read this repository's releases anonymously — no account or token needed.
 
 > DSHDesktop is an unofficial community shell. dsh itself is developed by DeepSeek at [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness).
 
