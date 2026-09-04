@@ -4,8 +4,6 @@ English | [中文](README.zh-CN.md)
 
 A desktop shell for [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) (dsh), DeepSeek's agent harness CLI. The installer bundles a portable Node.js runtime and the `@deepseek-ai/dsh` package, so the official dsh Web UI runs as a regular Windows application with no prerequisites.
 
-> **This repository hosts releases only** — installers, checksums, and release notes. The source code is currently kept private; this is the official download channel referenced by the app's built-in updater. Feedback and bug reports are welcome in [Issues](../../issues).
-
 ## Screenshots
 
 **Desktop**: the official dsh Web UI in a native window, following your system theme.
